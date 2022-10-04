@@ -25,8 +25,4 @@ My name is Guilherme Brito, I'm a software developer.
 
 </br>
 
-**Currently studying:**
-</br>
-    <img src="https://img.shields.io/badge/-GraphQL-%23E10098?style=for-the-badge&logo=graphql">
-
 ![Anurag's GitHub stats](https://github-readme-stats-six-steel.vercel.app/api?username=guilhermehgbrito&show_icons=true&theme=radical)
